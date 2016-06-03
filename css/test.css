@@ -1,0 +1,112 @@
+@import url(https://fonts.googleapis.com/css?family=Titillium+Web:200,400,600);
+body {
+    background-image: url("../images/background3.jpg");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#quicklink {
+    background-color: #ffa500;
+}
+
+@font-face {
+    font-family: "myfamily";
+    src: url("../fonts/F&C.woff");
+}
+
+@font-face {
+    font-family: "myfamily2";
+    src: url("../fonts/AvenirNextLTPro-Demi.woff");
+}
+
+#hatch {
+    font-family: "myfamily2";
+    color: white;
+    font-weight: 100;
+    padding-top: 50px;
+    margin-top: -40px;
+    margin-bottom: 5px;
+}
+
+p {
+    font-family: helvetica;
+    font-size: 90%;
+    color: black;
+}
+
+.logoimage {
+    width: 250px;
+    height: 250px;
+    padding-bottom: 10px;
+}
+
+.logoimage2 {
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+#gotop {
+    height: 60px;
+    width: 60px;
+    float: right;
+    right: 100px;
+    margin-bottom: 45px;
+    margin-right: 60px;
+    opacity: 0.5;
+    -webkit-transition: width 0.5s, height 0.5s, opacity 0.5s, box-shadow 0.5s, transform 0.5s, margin-bottom 0.5s, margin-right 0.5s;
+    transition: width 0.5s, height 0.5s, opacity 0.5s, box-shadow 0.5s, transform 0.5s, margin-bottom 0.5s, margin-right 0.5s;
+}
+
+#gotop:hover {
+    width: 80px;
+    height: 80px;
+    transform: rotate(360deg);
+    opacity: 1.0;
+    box-shadow: 5px 5px 7px #696969;
+    margin-right: 50px;
+    margin-bottom: 25px;
+}
+
+#r1c1:hover {
+    background-color: rgba(179, 255, 102, 0.5);
+    box-shadow: 5px 5px 5px #696969;
+    
+}
+
+#r1c2:hover {
+    background-color: rgba(68, 102, 0, 0.3);
+    box-shadow: 5px 5px 5px #696969;
+    
+}
+
+#r2c1:hover {
+    background-color: rgba(200, 200, 200, 0.7);
+    box-shadow: 5px 5px 5px #696969;
+    
+}
+
+#r2c2:hover {
+    background-color: rgba(77, 121, 255, 0.4);
+    box-shadow: 5px 5px 5px #696969;
+}
+
+#r2c3:hover {
+    background-color: rgba(192, 32, 37, 0.4);
+    box-shadow: 5px 5px 5px #696969;
+}
+
+#r3c1:hover {
+    background-color: rgba(247, 232, 48, 0.4);
+    box-shadow: 5px 5px 5px #696969;
+}
+
+#r3c2:hover {
+    background-color: rgba(255, 1, 65, 0.4);
+    box-shadow: 5px 5px 5px #696969;
+}
+
+#r3c3:hover {
+    background-color: rgba(0, 0, 0, 0.4);
+    box-shadow: 5px 5px 5px #696969;
+}

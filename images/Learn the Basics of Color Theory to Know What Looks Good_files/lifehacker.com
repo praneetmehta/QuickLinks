@@ -1,0 +1,1 @@
+PARSELY.pInit({"apikey":"lifehacker.com","settings":{"debug":false,"widget":false,"tracker":true},"customizations":null,"track_ip_addresses":true,"bundle":"/code/ptrack-engagedslots-v10.js","track_third_party_cookies":true,"uuid":"fd7ca92d-5402-4e5b-b6ba-2615361008a7","network_uuid":"441c1d8f-bcd6-43a7-82ab-d9ea34971c0b","apikey_uuid":"fd7ca92d-5402-4e5b-b6ba-2615361008a7"});
